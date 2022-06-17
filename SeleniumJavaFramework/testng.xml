@@ -1,0 +1,14 @@
+
+<suite parallel="classes" name="Suite2">
+  <test thread-count="5" parallel="classes" name="Test2">
+    <classes>
+      <class name="Test.TestNG_Demo"/>
+      <class name="Test.TestNG_Demo2"/>
+		
+			<method>
+				<include name="googleSearch3"> </include>
+			</method>
+		    
+    </classes>
+  </test> <!-- Test2 -->
+</suite> <!-- Suite2 -->

@@ -1,0 +1,43 @@
+[INFO ] 2022-06-07 11:35:43.039 [main] Log4JDemo - This is information message
+[ERROR] 2022-06-07 11:35:43.039 [main] Log4JDemo - This is an error message
+[WARN ] 2022-06-07 11:35:43.039 [main] Log4JDemo - This is a warning message
+[FATAL] 2022-06-07 11:35:43.039 [main] Log4JDemo - This is a fatal message
+[INFO ] 2022-06-07 11:55:24.553 [main] Log4JDemo - This is information message
+[ERROR] 2022-06-07 11:55:24.553 [main] Log4JDemo - This is an error message
+[WARN ] 2022-06-07 11:55:24.553 [main] Log4JDemo - This is a warning message
+[FATAL] 2022-06-07 11:55:24.553 [main] Log4JDemo - This is a fatal message
+[INFO ] 2022-06-07 12:31:15.074 [main] Log4JDemo - This is information message
+[ERROR] 2022-06-07 12:31:15.075 [main] Log4JDemo - This is an error message
+[WARN ] 2022-06-07 12:31:15.075 [main] Log4JDemo - This is a warning message
+[FATAL] 2022-06-07 12:31:15.075 [main] Log4JDemo - This is a fatal message
+[INFO ] 2022-06-07 12:32:43.061 [main] Log4JDemo - This is information message
+[ERROR] 2022-06-07 12:32:43.062 [main] Log4JDemo - This is an error message
+[WARN ] 2022-06-07 12:32:43.062 [main] Log4JDemo - This is a warning message
+[FATAL] 2022-06-07 12:32:43.062 [main] Log4JDemo - This is a fatal message
+[INFO ] 2022-06-07 12:36:09.058 [main] Log4JDemo - This is information message
+[ERROR] 2022-06-07 12:36:09.058 [main] Log4JDemo - This is an error message
+[WARN ] 2022-06-07 12:36:09.058 [main] Log4JDemo - This is a warning message
+[FATAL] 2022-06-07 12:36:09.058 [main] Log4JDemo - This is a fatal message
+[INFO ] 2022-06-07 12:36:09.859 [main] Log4JDemo - This is information message
+[ERROR] 2022-06-07 12:36:09.860 [main] Log4JDemo - This is an error message
+[WARN ] 2022-06-07 12:36:09.860 [main] Log4JDemo - This is a warning message
+[FATAL] 2022-06-07 12:36:09.860 [main] Log4JDemo - This is a fatal message
+[INFO ] 2022-06-07 12:39:42.611 [main] Log4JDemo - This is information message
+[ERROR] 2022-06-07 12:39:42.612 [main] Log4JDemo - This is an error message
+[WARN ] 2022-06-07 12:39:42.612 [main] Log4JDemo - This is a warning message
+[FATAL] 2022-06-07 12:39:42.612 [main] Log4JDemo - This is a fatal message
+[TRACE] 2022-06-07 12:41:27.711 [main] Log4JDemo - This is trace manager
+[INFO ] 2022-06-07 12:41:27.711 [main] Log4JDemo - This is information message
+[ERROR] 2022-06-07 12:41:27.711 [main] Log4JDemo - This is an error message
+[WARN ] 2022-06-07 12:41:27.711 [main] Log4JDemo - This is a warning message
+[FATAL] 2022-06-07 12:41:27.711 [main] Log4JDemo - This is a fatal message
+[TRACE] 2022-06-07 12:43:17.224 [main] Log4JDemo - This is trace manager
+[INFO ] 2022-06-07 12:43:17.224 [main] Log4JDemo - This is information message
+[ERROR] 2022-06-07 12:43:17.224 [main] Log4JDemo - This is an error message
+[WARN ] 2022-06-07 12:43:17.224 [main] Log4JDemo - This is a warning message
+[FATAL] 2022-06-07 12:43:17.225 [main] Log4JDemo - This is a fatal message
+[TRACE] 2022-06-07 12:44:20.883 [main] Log4JDemo - This is trace manager
+[INFO ] 2022-06-07 12:44:20.884 [main] Log4JDemo - This is information message
+[ERROR] 2022-06-07 12:44:20.884 [main] Log4JDemo - This is an error message
+[WARN ] 2022-06-07 12:44:20.884 [main] Log4JDemo - This is a warning message
+[FATAL] 2022-06-07 12:44:20.884 [main] Log4JDemo - This is a fatal message
